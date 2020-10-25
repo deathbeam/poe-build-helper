@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/deathbeam/poe-build-helper#readme",
   "dependencies": {
+    "argparse": "^2.0.1",
     "ramda": "^0.27.1",
     "yaml": "^1.10.0"
   },

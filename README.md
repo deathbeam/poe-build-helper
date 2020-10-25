@@ -4,4 +4,4 @@ Utilities for making PoE builds
 
 # gem-progression.js
 
-Usage: `node lib/gem-progression.js <path_to_yaml_config>`
+Usage: `node lib/gem-progression.js --help`

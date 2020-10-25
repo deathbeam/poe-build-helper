@@ -7,12 +7,6 @@ skills:
       - Deadly Ailments
       - Unbound Ailments
       - Void Manipulation
-  - name: Bladefall
-    group: 2
-    join: false
-    supports:
-      - Spellslinger
-      - Spell Cascade
   - name: Ethereal Knives
     group: 2
     join: false
@@ -21,6 +15,12 @@ skills:
       - Pierce
       - Deadly Ailments
       - Unbound Ailments
+  - name: Bladefall
+    group: 2
+    join: false
+    supports:
+      - Spellslinger
+      - Spell Cascade
   - name: Power Siphon
     group: 3
   - name: Smoke Mine

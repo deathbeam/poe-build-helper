@@ -1,0 +1,19 @@
+{
+  "name": "poe-build-helper",
+  "version": "1.0.0",
+  "description": "Utilities for making PoE builds",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deathbeam/poe-build-helper.git"
+  },
+  "author": "deathbeam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deathbeam/poe-build-helper/issues"
+  },
+  "homepage": "https://github.com/deathbeam/poe-build-helper#readme",
+  "dependencies": {
+    "ramda": "^0.27.1",
+    "yaml": "^1.10.0"
+  }
+}

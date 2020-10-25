@@ -22,16 +22,16 @@ skills:
     group: 2
     supports:
       - Second Wind
-  - name: Withering Step
-  - name: Malevolence
-  - name: Summon Skitterbots
-  - name: Despair
-  - name: Blood Rage
   - name: Enduring Cry
     group: 2
     supports:
       - Second Wind
       - Urgent Orders
+  - name: Withering Step
+  - name: Malevolence
+  - name: Summon Skitterbots
+  - name: Despair
+  - name: Blood Rage
   - name: Immortal Call
     group: 3
     supports:

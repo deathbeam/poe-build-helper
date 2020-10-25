@@ -1,0 +1,37 @@
+skills:
+  - name: Blade Blast
+    group: 1
+    supports:
+      - Spellslinger
+      - Lesser Poison
+      - Deadly Ailments
+      - Unbound Ailments
+      - Void Manipulation
+  - name: Bladefall
+    group: 2
+    join: false
+    supports:
+      - Spellslinger
+      - Spell Cascade
+  - name: Ethereal Knives
+    group: 2
+    join: false
+    supports:
+      - Lesser Poison
+      - Pierce
+      - Deadly Ailments
+      - Unbound Ailments
+  - name: Power Siphon
+    group: 3
+  - name: Smoke Mine
+    group: 4
+    supports:
+      - Second Wind
+  - name: Enduring Cry
+    group: 4
+    supports:
+      - Second Wind
+      - Urgent Orders
+  - name: Plague Bearer
+  - name: Withering Step
+  - name: Despair

@@ -2,6 +2,11 @@
 
 Utilities for making PoE builds
 
+# prerequisities
+
+* get node.js
+* run `npm install` in cloned repo
+
 # gem-progression.js
 
 Usage: `node lib/gem-progression.js --help`

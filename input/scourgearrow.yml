@@ -5,36 +5,29 @@ skills:
     join: false
     supports:
       - Pierce
-      - Mirage Archer
       - Void Manipulation
-      - Lesser Poison
-  - name: Toxic Rain
+      - Chance to Poison
+  - name: Poisonous Concoction
     group: 1
     join: false
     supports:
-      - Mirage Archer
+      - Greater Multiple Projectiles
+      - Deadly Ailments
       - Void Manipulation
+      - Unbound Ailments
       - Vicious Projectiles
-      - Swift Affliction
-      - Efficacy
-      - Faster Attacks
-      - Lesser Poison
-  - name: Smoke Mine
+      - Lesser Multiple Projectiles
+      - Chance to Poison
+  - name: Dash
     group: 2
     supports:
       - Second Wind
-  - name: Enduring Cry
-    group: 2
-    supports:
-      - Second Wind
-      - Urgent Orders
   - name: Withering Step
-  - name: Malevolence
-  - name: Summon Skitterbots
+  - name: Herald of Agony
+  - name: Grace
   - name: Despair
   - name: Blood Rage
-  - name: Immortal Call
+  - name: Steelskin
     group: 3
     supports:
-      - Cast when Damage Taken
       - Increased Duration
